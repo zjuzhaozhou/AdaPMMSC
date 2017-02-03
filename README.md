@@ -1,0 +1,1 @@
+This is the code for the ACM MM 2016 paper (pp 152-156), *Partial Multi-Modal Sparse Coding via Adaptive Similarity Structure Regularization*, Zhou Zhao, Hanqing Lu, Deng Cai, Xiaofei He, and Yueting Zhuang
